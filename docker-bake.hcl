@@ -12,8 +12,7 @@ target "_common" {
 
 target "_common_multi_platforms" {
   platforms = [
-    "linux/amd64",
-    "linux/arm64"
+    "linux/amd64"
   ]
 }
 
